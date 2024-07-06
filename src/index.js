@@ -16,7 +16,7 @@ const routes = {
   "ecr.taokyla.com": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.taokyla.so": dockerHub,
+  "docker-staging.taokyla.com": dockerHub,
 };
 
 function routeByHosts(host) {
